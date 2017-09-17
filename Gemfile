@@ -41,6 +41,9 @@ group :development, :test do
   gem 'awesome_print'
   gem 'tapp'
 
+  # Table/Schema
+  gem 'annotate'
+  gem 'migration_comments'
 end
 
 group :development do
